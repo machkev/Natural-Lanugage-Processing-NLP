@@ -1,4 +1,4 @@
-# Natural Lanugage Processing (NLP)
+# Natural Language Processing (NLP)
 
 # Tales from the Crypto
 
